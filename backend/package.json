@@ -1,0 +1,31 @@
+{
+  "name": "lab-5",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node app/index.js"
+  },
+  "dependencies": {
+    "bcrypt": "^3.0.4",
+    "bcrypt-nodejs": "0.0.3",
+    "better-logging": "^3.3.2",
+    "configure": "0.0.1",
+    "cors": "^2.8.5",
+    "dateformat": "^3.0.3",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "express-socket.io-session": "^1.3.5",
+    "fuser": "^2.0.0",
+    "moment": "^2.24.0",
+    "mysql2": "^1.6.4",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "react-native-websocket": "^1.0.2",
+    "sequelize": "^4.42.0",
+    "socket.io": "^1.7.4",
+    "socket.io-client": "^2.0.4"
+  },
+  "devDependencies": {
+    "node-hot-loader": "^1.12.3",
+    "webpack": "^4.29.3"
+  }
+}
